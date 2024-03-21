@@ -1,0 +1,3 @@
+
+start :
+	python optics.py
